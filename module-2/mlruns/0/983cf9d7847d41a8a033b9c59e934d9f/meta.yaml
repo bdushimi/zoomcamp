@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/983cf9d7847d41a8a033b9c59e934d9f/artifacts
+end_time: 1716994177868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 983cf9d7847d41a8a033b9c59e934d9f
+run_name: blushing-crow-62
+run_uuid: 983cf9d7847d41a8a033b9c59e934d9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716994171291
+status: 3
+tags: []
+user_id: dushi

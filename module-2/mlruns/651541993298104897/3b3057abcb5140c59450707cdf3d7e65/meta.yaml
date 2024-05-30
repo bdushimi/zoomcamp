@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dushi/dev-env/zoomcamp/module-2/mlruns/651541993298104897/3b3057abcb5140c59450707cdf3d7e65/artifacts
+end_time: 1716989788397
+entry_point_name: ''
+experiment_id: '651541993298104897'
+lifecycle_stage: active
+run_id: 3b3057abcb5140c59450707cdf3d7e65
+run_name: big-gnat-844
+run_uuid: 3b3057abcb5140c59450707cdf3d7e65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716989778495
+status: 3
+tags: []
+user_id: dushi

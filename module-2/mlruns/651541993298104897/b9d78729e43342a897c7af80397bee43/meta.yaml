@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dushi/dev-env/zoomcamp/module-2/mlruns/651541993298104897/b9d78729e43342a897c7af80397bee43/artifacts
+end_time: 1717018988032
+entry_point_name: ''
+experiment_id: '651541993298104897'
+lifecycle_stage: active
+run_id: b9d78729e43342a897c7af80397bee43
+run_name: kindly-shark-593
+run_uuid: b9d78729e43342a897c7af80397bee43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717018977992
+status: 3
+tags: []
+user_id: dushi
