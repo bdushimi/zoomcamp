@@ -6,7 +6,7 @@ docker pull dushberd/nyc-ride-prediction-model
 ```
 
 # How to run it?
-e.g docker run nyc-ride-prediction-model <year> <month>
+e.g docker run nyc-ride-prediction-model {year} {month}
 
 ```
 docker run nyc-ride-prediction-model 2023 05
